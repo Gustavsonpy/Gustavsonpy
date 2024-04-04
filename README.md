@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/gustavo-paluski" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-paluski/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </div>
 
 ###
