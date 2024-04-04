@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">About me:</p>
-
-###
-
 <p align="left">- 👤 My name is Gustavo Paluski<br><br>- 👨🏻‍💻 I'm a Software Engineer student<br><br>- 🏢 I’m currently working on Bosch</p>
 
 ###
