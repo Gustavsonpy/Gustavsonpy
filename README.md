@@ -7,7 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,python,java,cs" alt="My Skills">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=react,js,nodejs,python,java,cs" alt="My Skills">
+  </a>
 </div>
 
 ###
